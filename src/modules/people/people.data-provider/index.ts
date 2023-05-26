@@ -1,0 +1,1 @@
+export { PeopleDataProvider } from './people.data-provider'
